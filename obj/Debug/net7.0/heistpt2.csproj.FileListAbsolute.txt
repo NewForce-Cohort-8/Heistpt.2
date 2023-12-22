@@ -1,0 +1,15 @@
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\bin\Debug\net7.0\heistpt2.exe
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\bin\Debug\net7.0\heistpt2.deps.json
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\bin\Debug\net7.0\heistpt2.runtimeconfig.json
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\bin\Debug\net7.0\heistpt2.dll
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\bin\Debug\net7.0\heistpt2.pdb
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\obj\Debug\net7.0\heistpt2.csproj.AssemblyReference.cache
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\obj\Debug\net7.0\heistpt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\obj\Debug\net7.0\heistpt2.AssemblyInfoInputs.cache
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\obj\Debug\net7.0\heistpt2.AssemblyInfo.cs
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\obj\Debug\net7.0\heistpt2.csproj.CoreCompileInputs.cache
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\obj\Debug\net7.0\heistpt2.dll
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\obj\Debug\net7.0\refint\heistpt2.dll
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\obj\Debug\net7.0\heistpt2.pdb
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\obj\Debug\net7.0\heistpt2.genruntimeconfig.cache
+C:\Users\tspur\workspace\cohort8\backEnd\Heistpt2\heistpt2\obj\Debug\net7.0\ref\heistpt2.dll
